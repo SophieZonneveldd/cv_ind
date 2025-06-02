@@ -49,3 +49,27 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pink {
+	color: #F4C7FA
+}
+
+.lila {
+	background-color: #F7B9DB
+}
+
+.morepink {
+	background-color: #FF00D9
+}
+
+.light {
+	color: #F44BCB
+}
+
+
